@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">GITHCM Scanner</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="view_data">View</string>
+    <string name="add_user">Add</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+
+    <string name="question1">
+        Do you have any symptom of illness such as: \n
+        A.) Cough \n
+        B.) Shortness of breath or difficulty breathing \n
+        C.) Fever \n
+        D.) Chills/repeated shaking with chills \n
+        E.) Muscle pain \n
+        F.) Headache \n
+        G.) Sore throat \n
+        H.) New loss of taste or smell
+    </string>
+    <string name="question2">
+        Have you had any contact with anyone with fever, cough, colds or sore throat in the past two weeks?
+    </string>
+    <string name="question3">
+        Have you travelled outside the Philippines in then last 14 days?
+    </string>
+    <string name="question4">
+        Have you travelled in any NCR aside from your home?
+    </string>
+    <string name="waiver">
+        I hereby authorize Glory in the Highest Christian Ministry to collect and process
+        the data indicated herein for the purpose of effecting control of the COVID-19 infection. I understand
+        that my personal information is protected by RA 10123, Data Privacy Act of 2012 and that I am required
+        by RA 11459 Bayanihan to heal as One Act to provide truthful information.
+    </string>
+    <string name="radioyes">Yes</string>
+    <string name="radiono">No</string>
+</resources>
